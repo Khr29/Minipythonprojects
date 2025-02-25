@@ -13,7 +13,7 @@ def remove_task(task_listbox):
     try:
         selected_task=task_listbox.curselection()[0]
         task_listbox.delete(selected_task)
-        base_tasks(task_listbox)
+        base_tasks(task_listbo)
     except:
         pass    
 
