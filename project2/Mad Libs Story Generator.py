@@ -17,7 +17,6 @@ for i, char in enumerate(story):
         word = story[start_of_word: i + 1] 
         words.add(word)
         start_of_word = -1  #resets to prepare for the next placeholder
-
 #4-ask the user for replacement words
 answers = {}   
 for word in words:
