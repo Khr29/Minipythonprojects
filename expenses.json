@@ -1,0 +1,26 @@
+[
+    {
+        "amount": 500.0,
+        "category": "food",
+        "description": "with brother ",
+        "date": "2025-03-10"
+    },
+    {
+        "amount": 456.0,
+        "category": "food",
+        "description": "with friends",
+        "date": "2025-03-10"
+    },
+    {
+        "amount": 555.0,
+        "category": "rent",
+        "description": "house",
+        "date": "2025-03-10"
+    },
+    {
+        "amount": 800.0,
+        "category": "fuel",
+        "description": "bike fuel",
+        "date": "2025-03-10"
+    }
+]
